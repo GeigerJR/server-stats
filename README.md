@@ -17,3 +17,7 @@ A Bash script to display key performance statistics for any Linux server.
    ```bash
    git clone https://github.com/GeigerJR/server-stats.git
    cd server-stats
+
+## 🔗 Project URL
+
+https://github.com/GeigerJR/server-stats
