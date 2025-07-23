@@ -20,4 +20,5 @@ A Bash script to display key performance statistics for any Linux server.
 
 ## 🔗 Project URL
 
-https://github.com/GeigerJR/server-stats
+[https://github.com/GeigerJR/server-stats](https://github.com/GeigerJR/server-stats)
+
